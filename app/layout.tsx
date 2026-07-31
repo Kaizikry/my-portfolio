@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import type { ReactElement, ReactNode } from "react";
 
 export const metadata: Metadata = {
-  title: "My Portfolio",
-  description: "Personal portfolio website built with Next.js and Tailwind CSS",
+  title: "Your Name | Digital designer & developer",
+  description: "Selected work and notes from Your Name.",
 };
 
 export default function RootLayout({

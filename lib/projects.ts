@@ -24,7 +24,7 @@ export const projects: Project[] = [
     image: "/project2.png",
     tags: ["React", "Node.js"],
   },
-  // 👇 Just add a new object here whenever you want to add a project
+  //Just add a new object here whenever you want to add a project
   {
     slug: "project-three",
     title: "Project Three",
